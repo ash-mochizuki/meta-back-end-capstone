@@ -1,7 +1,5 @@
 from django.contrib import admin
+from .models import Menu, Booking
 
-from . import models
-
-
-admin.site.register(models.Booking)
-admin.site.register(models.Menu)
+admin.site.register(Menu)
+admin.site.register(Booking)
