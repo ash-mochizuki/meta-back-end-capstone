@@ -1,4 +1,5 @@
 checkout...
-admin/
-restaurant/menu/
-restaurant/booking/
+
+- admin/
+- restaurant/menu/
+- restaurant/booking/
